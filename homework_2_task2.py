@@ -23,8 +23,8 @@ def task2(variable_1: int, variable_2: int, variable_action):
         result = 'Введите число от 3 до 23'
     return result
 
-variable_1 = int(input('Переменая 1:'))
-variable_2 = int(input('Переменая 2:'))
-variable_action = input('Действие ((+, -, *, /)):')
-a = task2(variable_1, variable_2, variable_action)
-print(a)
+# variable_1 = int(input('Переменая 1:'))
+# variable_2 = int(input('Переменая 2:'))
+# variable_action = input('Действие ((+, -, *, /)):')
+# a = task2(variable_1, variable_2, variable_action)
+# print(a)
