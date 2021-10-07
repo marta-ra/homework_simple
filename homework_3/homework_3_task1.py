@@ -56,7 +56,7 @@ def validation_2(func):
     return wrapper
 
 
-type_argument = tuple
+type_argument = int
 
 @validation_1(type_arg=type_argument)
 def data_change_type_1(*args):
